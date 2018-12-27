@@ -86,3 +86,6 @@ Screenshots from SH scanner.
 # To do
 - Eliminate the cPanel dependency
 - Provide an interface that allows settings adjustments (clamav binary path, toggle option on/off, etc)
+
+# License
+MIT
