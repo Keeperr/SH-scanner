@@ -1,4 +1,4 @@
-# SH scanner [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/Keeperr) [![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](https://github.com/Keeperr)
+# SH scanner [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/Keeperr/SH-scanner) [![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](https://github.com/Keeperr/SH-scanner) [![Dependencies](https://img.shields.io/badge/dependencies-2-orange.svg)](https://github.com/Keeperr/SH-scanner)
 SH scanner is an incident response utility written in PHP. It is a potentially malicious content analysis tool that provides the ability to easily and quickly detect how malicious files were located in an account. The tool is written and suited for shared hosting environments running cPanel. The tool requires ClamAV to be installed on the server.
 
 ![Preview](https://raw.githubusercontent.com/Keeperr/SH-scanner/master/assets/preview.png)
