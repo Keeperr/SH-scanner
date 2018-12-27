@@ -10,7 +10,7 @@ SH scanner is an incident response utility written in PHP. It is a potentially m
 
 Currently SH scanner supports the following features:
 
-##### Scan with ClamAV
+### Scan with ClamAV
 Initiates a clamscan with additional options for a specified directory.
 
 > When starting ClamAV, in most cases PHP will not wait for its execution to finish and Internal Server Error 500 will return due to the maximum value of FcgidIOTimeout. For this purpose, this menu allows ClamAV to run in background, so we have a refresh button to understand when it's finished.
