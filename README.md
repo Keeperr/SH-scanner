@@ -4,7 +4,7 @@ SH scanner is an incident response utility written in PHP. It is a potentially m
 ![Preview](https://raw.githubusercontent.com/Keeperr/SH-scanner/master/assets/preview.png)
 
 # Dependencies
-
+Since SH scanner was primarily developed for shared hosting environments, the following dependencies must be met:
 - ClamAV engine
 - cPanel (_will soon remove this one_)
 
