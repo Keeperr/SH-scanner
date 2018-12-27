@@ -1,7 +1,7 @@
 # SH scanner
 SH scanner is an incident response utility written in PHP. It is a potentially malicious content analysis tool that provides the ability to easily and quickly detect how malicious files were located in an account. The tool is written and suited for shared hosting environments running cPanel. The tool requires ClamAV to be installed on the server.
 
-![Preview](https://raw.githubusercontent.com/Keeperr/SH-scanner/master/preview.png)
+![Preview](https://raw.githubusercontent.com/Keeperr/SH-scanner/master/assets/preview.png)
 
 # Dependencies
 
@@ -77,9 +77,9 @@ Additional functionalities and extras.
 # Preview
 Screenshots from SH scanner.
 
-![Scan with ClamAV](https://raw.githubusercontent.com/Keeperr/SH-scanner/master/preview2.png)
-![Find extracted files](https://raw.githubusercontent.com/Keeperr/SH-scanner/master/preview3.png)
-![Last file inode change](https://raw.githubusercontent.com/Keeperr/SH-scanner/master/preview4.png)
+![Scan with ClamAV](https://raw.githubusercontent.com/Keeperr/SH-scanner/master/assets/preview2.png)
+![Find extracted files](https://raw.githubusercontent.com/Keeperr/SH-scanner/master/assets/preview3.png)
+![Last file inode change](https://raw.githubusercontent.com/Keeperr/SH-scanner/master/assets/preview4.png)
 ---
 # To do
 - Eliminate the cPanel dependency
